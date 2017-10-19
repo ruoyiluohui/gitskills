@@ -7,3 +7,4 @@ change time by hui at 2017/10/16/10:41
 本地修改提交 无用户名 hit0101@163.com
 修改user.name 和 user.email之后看结果
 error hitcs.lyh@outlook.com提交
+判断一个github账号是否可以有两个邮箱 ruoyiluohui 1392527187@qq.com
